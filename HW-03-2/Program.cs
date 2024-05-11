@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace HW2
+namespace Task2
 {
     public class SpaceOnDisk
     {
